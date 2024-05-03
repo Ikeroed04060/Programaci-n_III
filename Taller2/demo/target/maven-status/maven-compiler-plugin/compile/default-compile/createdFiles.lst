@@ -1,0 +1,6 @@
+com\example\demo\DemoApplication.class
+com\example\demo\models\Entity\Cliente.class
+com\example\demo\models\Service\ClienteServiceimpl.class
+com\example\demo\models\Service\IClienteService.class
+com\example\demo\models\Repository\IClientesRepository.class
+com\example\demo\Controllers\ClienteRestController.class
